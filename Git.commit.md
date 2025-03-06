@@ -326,3 +326,4 @@ git commit -m "feat: add image cropping feature" --author="John Doe <john@exampl
 ```
 
 ---
+Contributor Abdulmalik
